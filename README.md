@@ -1,2 +1,2 @@
 # Javascript-Project
-learning Javascript
+learning Javascript.
